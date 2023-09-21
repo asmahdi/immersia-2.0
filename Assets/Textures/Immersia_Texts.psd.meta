@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: 08d2ea6f1d397d543a79ef348821caf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1127519791378453521
+    second: Immersia_Texts_0
+  - first:
+      213: 2783607167283249870
+    second: Immersia_Texts_1
+  - first:
+      213: -1131218479542722720
+    second: Immersia_Texts_2
+  - first:
+      213: 4530371058748280373
+    second: Immersia_Texts_3
+  - first:
+      213: 3402074817638063247
+    second: Immersia_Texts_4
+  - first:
+      213: -4235425303996055609
+    second: Immersia_Texts_5
+  - first:
+      213: -2833566894728216876
+    second: Immersia_Texts_6
+  - first:
+      213: 6857399023982745657
+    second: Immersia_Texts_7
+  - first:
+      213: 1069799402945737066
+    second: Immersia_Texts_8
+  - first:
+      213: 8674344844083801767
+    second: Immersia_Texts_9
+  - first:
+      213: -6184041433822725149
+    second: Immersia_Texts_10
+  - first:
+      213: -3139340269146746833
+    second: Immersia_Texts_11
+  - first:
+      213: 2935432664056044875
+    second: Immersia_Texts_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Immersia_Texts_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1737
+        width: 413
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114d552c641c5af00800000000000000
+      internalID: 1127519791378453521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Immersia_Texts_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1571
+        width: 958
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2462078fb51a620800000000000000
+      internalID: 2783607167283249870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Immersia_Texts_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1435
+        width: 279
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f9f7b49ca1d40f0800000000000000
+      internalID: -1131218479542722720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Immersia_Texts_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1273
+        width: 431
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ec669997c1fde30800000000000000
+      internalID: 4530371058748280373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Immersia_Texts_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1119
+        width: 462
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c5e9c8509963f20800000000000000
+      internalID: 3402074817638063247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Immersia_Texts_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 978
+        width: 217
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf3d92502fb835c0800000000000000
+      internalID: -4235425303996055609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Immersia_Texts_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 821
+        width: 238
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4defa601ce52da8d0800000000000000
+      internalID: -2833566894728216876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Immersia_Texts_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 680
+        width: 186
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9381a9b84106a2f50800000000000000
+      internalID: 6857399023982745657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Immersia_Texts_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 526
+        width: 383
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61718193e0b8de00800000000000000
+      internalID: 1069799402945737066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Immersia_Texts_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 371
+        width: 685
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae2bd25da6716870800000000000000
+      internalID: 8674344844083801767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Immersia_Texts_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 219
+        width: 905
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebf2b4941fdd2aa0800000000000000
+      internalID: -6184041433822725149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Immersia_Texts_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 60
+        width: 1800
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20dd6c78a2de64d0800000000000000
+      internalID: -3139340269146746833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Immersia_Texts_12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 830
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d93239470ccb820800000000000000
+      internalID: 2935432664056044875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6901c5c4b4eff3d44899d2fc05083a09
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Immersia_Texts_7: 6857399023982745657
+      Immersia_Texts_6: -2833566894728216876
+      Immersia_Texts_10: -6184041433822725149
+      Immersia_Texts_1: 2783607167283249870
+      Immersia_Texts_4: 3402074817638063247
+      Immersia_Texts_9: 8674344844083801767
+      Immersia_Texts_0: 1127519791378453521
+      Immersia_Texts_8: 1069799402945737066
+      Immersia_Texts_5: -4235425303996055609
+      Immersia_Texts_12: 2935432664056044875
+      Immersia_Texts_3: 4530371058748280373
+      Immersia_Texts_11: -3139340269146746833
+      Immersia_Texts_2: -1131218479542722720
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
